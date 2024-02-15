@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "/mmvcrL80dL9iVjUrp+uGjdzE9RwP7cicq1JrjIU+MYFhrxcbxrLhyUjT0lkMrNyPNkrzIaY/jgQbhwPqUpp5Q==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\admin\\Desktop\\katja\\tehtävä\\setup\\MyProject.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsapicodepack-core\\1.1.0\\microsoft.windowsapicodepack-core.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsapicodepack-shell\\1.1.0\\microsoft.windowsapicodepack-shell.1.1.0.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\8.0.2\\microsoft.netcore.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\8.0.2\\microsoft.windowsdesktop.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\8.0.2\\microsoft.aspnetcore.app.runtime.win-x64.8.0.2.nupkg.sha512",
+    "C:\\Users\\admin\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.2\\microsoft.netcore.app.host.win-x64.8.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,10 @@
+<Window x:Class="MyProject.NotificationWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Уведомление" Height="100" Width="200"
+        WindowStyle="None" ResizeMode="NoResize"
+        AllowsTransparency="True" Background="Transparent">
+    <Grid>
+        <TextBlock Text="Идет загрузка..." HorizontalAlignment="Center" VerticalAlignment="Center"/>
+    </Grid>
+</Window>

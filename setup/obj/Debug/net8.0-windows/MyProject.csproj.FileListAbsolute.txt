@@ -1,0 +1,92 @@
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\WelcomeWindow.baml
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\WelcomeWindow.g.cs
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject_MarkupCompile.cache
+C:\Users\admin\Desktop\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.exe
+C:\Users\admin\Desktop\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.deps.json
+C:\Users\admin\Desktop\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.runtimeconfig.json
+C:\Users\admin\Desktop\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.dll
+C:\Users\admin\Desktop\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.pdb
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.g.resources
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.AssemblyInfo.cs
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.dll
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\refint\MyProject.dll
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.pdb
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.genruntimeconfig.cache
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\ref\MyProject.dll
+C:\Users\admin\Desktop\testtast\MyProject\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\admin\Desktop\testtast\MyProject\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\admin\Desktop\testtast\MyProject\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.csproj.Up2Date
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\ConfirmationWindow.baml
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\ConfirmationWindow.g.cs
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\MyProject_MarkupCompile.lref
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\FileCopyProcessWindow.baml
+C:\Users\admin\Desktop\testtast\MyProject\obj\Debug\net8.0-windows\FileCopyProcessWindow.g.cs
+C:\Users\admin\Desktop\New folder\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.exe
+C:\Users\admin\Desktop\New folder\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.deps.json
+C:\Users\admin\Desktop\New folder\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.runtimeconfig.json
+C:\Users\admin\Desktop\New folder\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.dll
+C:\Users\admin\Desktop\New folder\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.pdb
+C:\Users\admin\Desktop\New folder\testtast\MyProject\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\admin\Desktop\New folder\testtast\MyProject\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\admin\Desktop\New folder\testtast\MyProject\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\ConfirmationWindow.baml
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\FileCopyProcessWindow.baml
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\WelcomeWindow.baml
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\ConfirmationWindow.g.cs
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\FileCopyProcessWindow.g.cs
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\WelcomeWindow.g.cs
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject_MarkupCompile.cache
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject_MarkupCompile.lref
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.g.resources
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.AssemblyInfo.cs
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.csproj.Up2Date
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.dll
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\refint\MyProject.dll
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.pdb
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.genruntimeconfig.cache
+C:\Users\admin\Desktop\New folder\testtast\MyProject\obj\Debug\net8.0-windows\ref\MyProject.dll
+C:\Users\admin\Desktop\katja\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.exe
+C:\Users\admin\Desktop\katja\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.deps.json
+C:\Users\admin\Desktop\katja\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.runtimeconfig.json
+C:\Users\admin\Desktop\katja\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.dll
+C:\Users\admin\Desktop\katja\testtast\MyProject\bin\Debug\net8.0-windows\MyProject.pdb
+C:\Users\admin\Desktop\katja\testtast\MyProject\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.dll
+C:\Users\admin\Desktop\katja\testtast\MyProject\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.Shell.dll
+C:\Users\admin\Desktop\katja\testtast\MyProject\bin\Debug\net8.0-windows\Microsoft.WindowsAPICodePack.ShellExtensions.dll
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.csproj.AssemblyReference.cache
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\ConfirmationWindow.baml
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\WelcomeWindow.baml
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\ConfirmationWindow.g.cs
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MainWindow.g.cs
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\WelcomeWindow.g.cs
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\App.g.cs
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject_MarkupCompile.cache
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MainWindow.baml
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.g.resources
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.AssemblyInfoInputs.cache
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.AssemblyInfo.cs
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.csproj.CoreCompileInputs.cache
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.csproj.Up2Date
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.dll
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\refint\MyProject.dll
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.pdb
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\MyProject.genruntimeconfig.cache
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\ref\MyProject.dll
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\NotificationWindow.baml
+C:\Users\admin\Desktop\katja\testtast\MyProject\obj\Debug\net8.0-windows\NotificationWindow.g.cs
